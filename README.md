@@ -1,2 +1,2 @@
-# blog-web
-I developed this blog website using these some languages like html, CSS, JS , AJAX, PHP, MYSQL etc .
+# blogwebsite
+a simple blog webiste user can be post a blog , delete and edit the post.
